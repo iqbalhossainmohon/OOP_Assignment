@@ -463,6 +463,372 @@ build CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.3.cpp.obj: CXX_
   OBJECT_DIR = CMakeFiles\Assignment.dir
   OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-6\6.7\Example
 
+build CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples\Example-7.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples\Example-7.1.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples\Example-7.1.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.4.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.4.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples\Example-7.1.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.1/Exercises/Exercises-7.1.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Exercises/Exercises-7.1.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.1\Exercises\Exercises-7.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.1\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.2/Examples/Example-7.2.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.2/Examples/Example-7.2.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.2\Examples\Example-7.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.2/Examples/Example-7.2.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.2/Examples/Example-7.2.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.2\Examples\Example-7.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.2/Examples/Example-7.2.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.2/Examples/Example-7.2.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.2\Examples\Example-7.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples\Example-7.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples\Example-7.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples\Example-7.3.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.4.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.4.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples\Example-7.3.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.5.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.5.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples\Example-7.3.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.3/Exercises/Exercises-7.3.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Exercises/Exercises-7.3.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.3\Exercises\Exercises-7.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.3\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.3/Exercises/Exercises-7.3.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Exercises/Exercises-7.3.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.3\Exercises\Exercises-7.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.3\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.4/Examples/Example-7.4.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Examples/Example-7.4.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.4\Examples\Example-7.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.4/Examples/Example-7.4.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Examples/Example-7.4.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.4\Examples\Example-7.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.4/Examples/Example-7.4.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Examples/Example-7.4.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.4\Examples\Example-7.4.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.4/Exercises/Exercises-7.4.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Exercises/Exercises-7.4.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.4\Exercises\Exercises-7.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.4\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.4/Exercises/Exercises-7.4.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Exercises/Exercises-7.4.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.4\Exercises\Exercises-7.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.4\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-7/7.5/Examples/Examples-7.5.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.5/Examples/Examples-7.5.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-7\7.5\Examples\Examples-7.5.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-7\7.5\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.1/Examples/Example-10.1.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.1/Examples/Example-10.1.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.1\Examples\Example-10.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples\Example-10.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples\Example-10.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples\Example-10.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.4.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.4.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples\Example-10.2.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.3/Examples/Example-10.3.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.3/Examples/Example-10.3.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.3\Examples\Example-10.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.3/Examples/Example-10.3.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.3/Examples/Example-10.3.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.3\Examples\Example-10.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.4/Examples/Example-10.4.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.4/Examples/Example-10.4.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.4\Examples\Example-10.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.4/Examples/Example-10.4.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.4/Examples/Example-10.4.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.4\Examples\Example-10.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples\Example-11.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples\Example-11.1.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples\Example-11.1.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.4.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.4.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples\Example-11.1.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.5.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.5.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples\Example-11.1.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.6.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.6.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples\Example-11.1.6.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.2/Examples/Example-11.2.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Examples/Example-11.2.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.2\Examples\Example-11.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.2/Examples/Example-11.2.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Examples/Example-11.2.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.2\Examples\Example-11.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.2/Examples/Example-11.2.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Examples/Example-11.2.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.2\Examples\Example-11.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.2\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples\Example-11.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples\Example-11.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples\Example-11.3.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.4.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.4.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples\Example-11.3.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.5.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.5.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples\Example-11.3.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.3\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.3/Exercises/Exercises-11.3.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Exercises/Exercises-11.3.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.3\Exercises\Exercises-11.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.3\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.3/Exercises/Exercises-11.3.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Exercises/Exercises-11.3.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.3\Exercises\Exercises-11.3.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.3\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples\Example-11.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples\Example-11.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples\Example-11.4.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.4.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.4.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples\Example-11.4.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.4\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.5/Examples/Example-11.5.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Examples/Example-11.5.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.5\Examples\Example-11.5.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.5\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.5/Examples/Example-11.5.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Examples/Example-11.5.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.5\Examples\Example-11.5.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.5\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.5/Examples/Example-11.5.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Examples/Example-11.5.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.5\Examples\Example-11.5.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.5\Examples
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.5/Exercises/Exercises-11.5.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Exercises/Exercises-11.5.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.5\Exercises\Exercises-11.5.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.5\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.4/Exercises/Exercises-11.4.5.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Exercises/Exercises-11.4.5.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.4\Exercises\Exercises-11.4.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.4\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.2/Exercises/Exercises-11.2.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Exercises/Exercises-11.2.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.2\Exercises\Exercises-11.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.2\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.2\Exercises\Exercises-11.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.2\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Exercises/Exercises-11.1.2.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Exercises/Exercises-11.1.2.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Exercises\Exercises-11.1.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-11/11.1/Exercises/Exercises-11.1.3.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Exercises/Exercises-11.1.3.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-11\11.1\Exercises\Exercises-11.1.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-11\11.1\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.4/Exercises/Exercises-10.4.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.4/Exercises/Exercises-10.4.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.4\Exercises\Exercises-10.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.4\Exercises
+
+build CMakeFiles/Assignment.dir/Chapter-10/10.2/Exercises/Exercises-10.2.1.cpp.obj: CXX_COMPILER__Assignment_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Exercises/Exercises-10.2.1.cpp || cmake_object_order_depends_target_Assignment
+  DEP_FILE = CMakeFiles\Assignment.dir\Chapter-10\10.2\Exercises\Exercises-10.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles\Assignment.dir\Chapter-10\10.2\Exercises
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Assignment
@@ -471,7 +837,7 @@ build CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.3.cpp.obj: CXX_
 #############################################
 # Link the executable Assignment.exe
 
-build Assignment.exe: CXX_EXECUTABLE_LINKER__Assignment_Debug CMakeFiles/Assignment.dir/main.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/Exercises/exercises4.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/Exercises/exercises4.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/Exercises/exercises4.1.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.2/Exercises/exercises4.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.2/Exercises/exercises4.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.3/Exercises/exercises4.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Exercises/exercises4.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Exercises/exercises4.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Exercises/exercises4.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.6/Exercises/exercises4.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.7/Exercises/exercises4.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.8/Exercises/exercises4.8.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.2/Example/example4.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.3/Example/example4.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.3/Example/example4.3.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Example/example4.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Example/example4.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.5.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.6/Example/example4.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.6/Example/example4.6.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.7/Example/example4.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.7/Example/example4.7.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.8/Example/example4.8.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Exercises/exercises5.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Exercises/exercises5.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.2/Exercises/exercises5.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Exercises/exercises5.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Exercises/exercises5.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.6/Exercises/exercises5.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.2/Example/example5.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.2/Example/example5.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Example/example5.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Example/example5.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Example/example5.4.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.6/Example/example5.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.2/Exercises/exercises6.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.3/Exercises/exercises6.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Exercises/exercises6.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Exercises/exercises6.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Exercises/exercises6.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Exercises/exercises6.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Exercises/exercises6.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.6/Exercises/exercises6.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Exercises/exercises6.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.2/Example/example6.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.2/Example/example6.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.3/Example/example6.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Example/example6.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Example/example6.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Example/example6.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Example/example6.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Example/example6.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.6/Example/example6.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.3.cpp.obj
+build Assignment.exe: CXX_EXECUTABLE_LINKER__Assignment_Debug CMakeFiles/Assignment.dir/main.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/Exercises/exercises4.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/Exercises/exercises4.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/Exercises/exercises4.1.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.2/Exercises/exercises4.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.2/Exercises/exercises4.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.3/Exercises/exercises4.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Exercises/exercises4.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Exercises/exercises4.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Exercises/exercises4.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.6/Exercises/exercises4.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.7/Exercises/exercises4.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.8/Exercises/exercises4.8.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.2/Example/example4.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.3/Example/example4.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.3/Example/example4.3.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Example/example4.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.4/Example/example4.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.5/Example/example4.5.5.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.6/Example/example4.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.6/Example/example4.6.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.7/Example/example4.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.7/Example/example4.7.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-4/4.8/Example/example4.8.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Exercises/exercises5.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Exercises/exercises5.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.2/Exercises/exercises5.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Exercises/exercises5.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Exercises/exercises5.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.6/Exercises/exercises5.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.1/Example/example5.1.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.2/Example/example5.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.2/Example/example5.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Example/example5.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Example/example5.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.4/Example/example5.4.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.5/Example/example5.5.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-5/5.6/Example/example5.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.2/Exercises/exercises6.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.3/Exercises/exercises6.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Exercises/exercises6.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Exercises/exercises6.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Exercises/exercises6.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Exercises/exercises6.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Exercises/exercises6.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.6/Exercises/exercises6.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Exercises/exercises6.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.2/Example/example6.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.2/Example/example6.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.3/Example/example6.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Example/example6.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.4/Example/example6.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Example/example6.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Example/example6.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.5/Example/example6.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.6/Example/example6.6.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-6/6.7/Example/example6.7.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.1/Examples/Example-7.1.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.1/Exercises/Exercises-7.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.2/Examples/Example-7.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.2/Examples/Example-7.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.2/Examples/Example-7.2.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.3/Examples/Example-7.3.5.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.3/Exercises/Exercises-7.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.3/Exercises/Exercises-7.3.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.4/Examples/Example-7.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.4/Examples/Example-7.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.4/Examples/Example-7.4.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.4/Exercises/Exercises-7.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.4/Exercises/Exercises-7.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-7/7.5/Examples/Examples-7.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.1/Examples/Example-10.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.2/Examples/Example-10.2.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.3/Examples/Example-10.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.3/Examples/Example-10.3.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.4/Examples/Example-10.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.4/Examples/Example-10.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.5.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Examples/Example-11.1.6.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.2/Examples/Example-11.2.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.2/Examples/Example-11.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.2/Examples/Example-11.2.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.3/Examples/Example-11.3.5.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.3/Exercises/Exercises-11.3.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.3/Exercises/Exercises-11.3.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.4/Examples/Example-11.4.4.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.5/Examples/Example-11.5.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.5/Examples/Example-11.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.5/Examples/Example-11.5.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.5/Exercises/Exercises-11.5.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.4/Exercises/Exercises-11.4.5.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.2/Exercises/Exercises-11.2.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Exercises/Exercises-11.1.2.cpp.obj CMakeFiles/Assignment.dir/Chapter-11/11.1/Exercises/Exercises-11.1.3.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.4/Exercises/Exercises-10.4.1.cpp.obj CMakeFiles/Assignment.dir/Chapter-10/10.2/Exercises/Exercises-10.2.1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Assignment.dir
@@ -480,6 +846,7 @@ build Assignment.exe: CXX_EXECUTABLE_LINKER__Assignment_Debug CMakeFiles/Assignm
   TARGET_FILE = Assignment.exe
   TARGET_IMPLIB = libAssignment.dll.a
   TARGET_PDB = Assignment.exe.dbg
+  RSP_FILE = CMakeFiles\Assignment.rsp
 
 # =============================================================================
 # Object build statements for EXECUTABLE target exercises4.1.1
@@ -2725,6 +3092,2025 @@ build example6.7.3.exe: CXX_EXECUTABLE_LINKER__example6.2e7.2e3_Debug CMakeFiles
   TARGET_IMPLIB = libexample6.7.3.dll.a
   TARGET_PDB = example6.7.3.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.1.1
+
+
+#############################################
+# Order-only phony target for Example-7.1.1
+
+build cmake_object_order_depends_target_Example-7.1.1: phony || CMakeFiles/Example-7.1.1.dir
+
+build CMakeFiles/Example-7.1.1.dir/Chapter-7/7.1/Examples/Example-7.1.1.cpp.obj: CXX_COMPILER__Example-7.2e1.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.1.cpp || cmake_object_order_depends_target_Example-7.1.1
+  DEP_FILE = CMakeFiles\Example-7.1.1.dir\Chapter-7\7.1\Examples\Example-7.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.1.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.1.1.dir\Chapter-7\7.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.1.1
+
+
+#############################################
+# Link the executable Example-7.1.1.exe
+
+build Example-7.1.1.exe: CXX_EXECUTABLE_LINKER__Example-7.2e1.2e1_Debug CMakeFiles/Example-7.1.1.dir/Chapter-7/7.1/Examples/Example-7.1.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.1.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.1.1.exe
+  TARGET_IMPLIB = libExample-7.1.1.dll.a
+  TARGET_PDB = Example-7.1.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.1.2
+
+
+#############################################
+# Order-only phony target for Example-7.1.2
+
+build cmake_object_order_depends_target_Example-7.1.2: phony || CMakeFiles/Example-7.1.2.dir
+
+build CMakeFiles/Example-7.1.2.dir/Chapter-7/7.1/Examples/Example-7.1.2.cpp.obj: CXX_COMPILER__Example-7.2e1.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.2.cpp || cmake_object_order_depends_target_Example-7.1.2
+  DEP_FILE = CMakeFiles\Example-7.1.2.dir\Chapter-7\7.1\Examples\Example-7.1.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.1.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.1.2.dir\Chapter-7\7.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.1.2
+
+
+#############################################
+# Link the executable Example-7.1.2.exe
+
+build Example-7.1.2.exe: CXX_EXECUTABLE_LINKER__Example-7.2e1.2e2_Debug CMakeFiles/Example-7.1.2.dir/Chapter-7/7.1/Examples/Example-7.1.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.1.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.1.2.exe
+  TARGET_IMPLIB = libExample-7.1.2.dll.a
+  TARGET_PDB = Example-7.1.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.1.3
+
+
+#############################################
+# Order-only phony target for Example-7.1.3
+
+build cmake_object_order_depends_target_Example-7.1.3: phony || CMakeFiles/Example-7.1.3.dir
+
+build CMakeFiles/Example-7.1.3.dir/Chapter-7/7.1/Examples/Example-7.1.3.cpp.obj: CXX_COMPILER__Example-7.2e1.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.3.cpp || cmake_object_order_depends_target_Example-7.1.3
+  DEP_FILE = CMakeFiles\Example-7.1.3.dir\Chapter-7\7.1\Examples\Example-7.1.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.1.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.1.3.dir\Chapter-7\7.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.1.3
+
+
+#############################################
+# Link the executable Example-7.1.3.exe
+
+build Example-7.1.3.exe: CXX_EXECUTABLE_LINKER__Example-7.2e1.2e3_Debug CMakeFiles/Example-7.1.3.dir/Chapter-7/7.1/Examples/Example-7.1.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.1.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.1.3.exe
+  TARGET_IMPLIB = libExample-7.1.3.dll.a
+  TARGET_PDB = Example-7.1.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.1.4
+
+
+#############################################
+# Order-only phony target for Example-7.1.4
+
+build cmake_object_order_depends_target_Example-7.1.4: phony || CMakeFiles/Example-7.1.4.dir
+
+build CMakeFiles/Example-7.1.4.dir/Chapter-7/7.1/Examples/Example-7.1.4.cpp.obj: CXX_COMPILER__Example-7.2e1.2e4_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Examples/Example-7.1.4.cpp || cmake_object_order_depends_target_Example-7.1.4
+  DEP_FILE = CMakeFiles\Example-7.1.4.dir\Chapter-7\7.1\Examples\Example-7.1.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.1.4.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.1.4.dir\Chapter-7\7.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.1.4
+
+
+#############################################
+# Link the executable Example-7.1.4.exe
+
+build Example-7.1.4.exe: CXX_EXECUTABLE_LINKER__Example-7.2e1.2e4_Debug CMakeFiles/Example-7.1.4.dir/Chapter-7/7.1/Examples/Example-7.1.4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.1.4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.1.4.exe
+  TARGET_IMPLIB = libExample-7.1.4.dll.a
+  TARGET_PDB = Example-7.1.4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-7.1.1
+
+
+#############################################
+# Order-only phony target for Exercises-7.1.1
+
+build cmake_object_order_depends_target_Exercises-7.1.1: phony || CMakeFiles/Exercises-7.1.1.dir
+
+build CMakeFiles/Exercises-7.1.1.dir/Chapter-7/7.1/Exercises/Exercises-7.1.1.cpp.obj: CXX_COMPILER__Exercises-7.2e1.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.1/Exercises/Exercises-7.1.1.cpp || cmake_object_order_depends_target_Exercises-7.1.1
+  DEP_FILE = CMakeFiles\Exercises-7.1.1.dir\Chapter-7\7.1\Exercises\Exercises-7.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-7.1.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-7.1.1.dir\Chapter-7\7.1\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-7.1.1
+
+
+#############################################
+# Link the executable Exercises-7.1.1.exe
+
+build Exercises-7.1.1.exe: CXX_EXECUTABLE_LINKER__Exercises-7.2e1.2e1_Debug CMakeFiles/Exercises-7.1.1.dir/Chapter-7/7.1/Exercises/Exercises-7.1.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-7.1.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-7.1.1.exe
+  TARGET_IMPLIB = libExercises-7.1.1.dll.a
+  TARGET_PDB = Exercises-7.1.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.2.1
+
+
+#############################################
+# Order-only phony target for Example-7.2.1
+
+build cmake_object_order_depends_target_Example-7.2.1: phony || CMakeFiles/Example-7.2.1.dir
+
+build CMakeFiles/Example-7.2.1.dir/Chapter-7/7.2/Examples/Example-7.2.1.cpp.obj: CXX_COMPILER__Example-7.2e2.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.2/Examples/Example-7.2.1.cpp || cmake_object_order_depends_target_Example-7.2.1
+  DEP_FILE = CMakeFiles\Example-7.2.1.dir\Chapter-7\7.2\Examples\Example-7.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.2.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.2.1.dir\Chapter-7\7.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.2.1
+
+
+#############################################
+# Link the executable Example-7.2.1.exe
+
+build Example-7.2.1.exe: CXX_EXECUTABLE_LINKER__Example-7.2e2.2e1_Debug CMakeFiles/Example-7.2.1.dir/Chapter-7/7.2/Examples/Example-7.2.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.2.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.2.1.exe
+  TARGET_IMPLIB = libExample-7.2.1.dll.a
+  TARGET_PDB = Example-7.2.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.2.2
+
+
+#############################################
+# Order-only phony target for Example-7.2.2
+
+build cmake_object_order_depends_target_Example-7.2.2: phony || CMakeFiles/Example-7.2.2.dir
+
+build CMakeFiles/Example-7.2.2.dir/Chapter-7/7.2/Examples/Example-7.2.2.cpp.obj: CXX_COMPILER__Example-7.2e2.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.2/Examples/Example-7.2.2.cpp || cmake_object_order_depends_target_Example-7.2.2
+  DEP_FILE = CMakeFiles\Example-7.2.2.dir\Chapter-7\7.2\Examples\Example-7.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.2.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.2.2.dir\Chapter-7\7.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.2.2
+
+
+#############################################
+# Link the executable Example-7.2.2.exe
+
+build Example-7.2.2.exe: CXX_EXECUTABLE_LINKER__Example-7.2e2.2e2_Debug CMakeFiles/Example-7.2.2.dir/Chapter-7/7.2/Examples/Example-7.2.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.2.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.2.2.exe
+  TARGET_IMPLIB = libExample-7.2.2.dll.a
+  TARGET_PDB = Example-7.2.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.2.3
+
+
+#############################################
+# Order-only phony target for Example-7.2.3
+
+build cmake_object_order_depends_target_Example-7.2.3: phony || CMakeFiles/Example-7.2.3.dir
+
+build CMakeFiles/Example-7.2.3.dir/Chapter-7/7.2/Examples/Example-7.2.3.cpp.obj: CXX_COMPILER__Example-7.2e2.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.2/Examples/Example-7.2.3.cpp || cmake_object_order_depends_target_Example-7.2.3
+  DEP_FILE = CMakeFiles\Example-7.2.3.dir\Chapter-7\7.2\Examples\Example-7.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.2.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.2.3.dir\Chapter-7\7.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.2.3
+
+
+#############################################
+# Link the executable Example-7.2.3.exe
+
+build Example-7.2.3.exe: CXX_EXECUTABLE_LINKER__Example-7.2e2.2e3_Debug CMakeFiles/Example-7.2.3.dir/Chapter-7/7.2/Examples/Example-7.2.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.2.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.2.3.exe
+  TARGET_IMPLIB = libExample-7.2.3.dll.a
+  TARGET_PDB = Example-7.2.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.3.1
+
+
+#############################################
+# Order-only phony target for Example-7.3.1
+
+build cmake_object_order_depends_target_Example-7.3.1: phony || CMakeFiles/Example-7.3.1.dir
+
+build CMakeFiles/Example-7.3.1.dir/Chapter-7/7.3/Examples/Example-7.3.1.cpp.obj: CXX_COMPILER__Example-7.2e3.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.1.cpp || cmake_object_order_depends_target_Example-7.3.1
+  DEP_FILE = CMakeFiles\Example-7.3.1.dir\Chapter-7\7.3\Examples\Example-7.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.3.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.3.1.dir\Chapter-7\7.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.3.1
+
+
+#############################################
+# Link the executable Example-7.3.1.exe
+
+build Example-7.3.1.exe: CXX_EXECUTABLE_LINKER__Example-7.2e3.2e1_Debug CMakeFiles/Example-7.3.1.dir/Chapter-7/7.3/Examples/Example-7.3.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.3.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.3.1.exe
+  TARGET_IMPLIB = libExample-7.3.1.dll.a
+  TARGET_PDB = Example-7.3.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.3.2
+
+
+#############################################
+# Order-only phony target for Example-7.3.2
+
+build cmake_object_order_depends_target_Example-7.3.2: phony || CMakeFiles/Example-7.3.2.dir
+
+build CMakeFiles/Example-7.3.2.dir/Chapter-7/7.3/Examples/Example-7.3.2.cpp.obj: CXX_COMPILER__Example-7.2e3.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.2.cpp || cmake_object_order_depends_target_Example-7.3.2
+  DEP_FILE = CMakeFiles\Example-7.3.2.dir\Chapter-7\7.3\Examples\Example-7.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.3.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.3.2.dir\Chapter-7\7.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.3.2
+
+
+#############################################
+# Link the executable Example-7.3.2.exe
+
+build Example-7.3.2.exe: CXX_EXECUTABLE_LINKER__Example-7.2e3.2e2_Debug CMakeFiles/Example-7.3.2.dir/Chapter-7/7.3/Examples/Example-7.3.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.3.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.3.2.exe
+  TARGET_IMPLIB = libExample-7.3.2.dll.a
+  TARGET_PDB = Example-7.3.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.3.3
+
+
+#############################################
+# Order-only phony target for Example-7.3.3
+
+build cmake_object_order_depends_target_Example-7.3.3: phony || CMakeFiles/Example-7.3.3.dir
+
+build CMakeFiles/Example-7.3.3.dir/Chapter-7/7.3/Examples/Example-7.3.3.cpp.obj: CXX_COMPILER__Example-7.2e3.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.3.cpp || cmake_object_order_depends_target_Example-7.3.3
+  DEP_FILE = CMakeFiles\Example-7.3.3.dir\Chapter-7\7.3\Examples\Example-7.3.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.3.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.3.3.dir\Chapter-7\7.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.3.3
+
+
+#############################################
+# Link the executable Example-7.3.3.exe
+
+build Example-7.3.3.exe: CXX_EXECUTABLE_LINKER__Example-7.2e3.2e3_Debug CMakeFiles/Example-7.3.3.dir/Chapter-7/7.3/Examples/Example-7.3.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.3.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.3.3.exe
+  TARGET_IMPLIB = libExample-7.3.3.dll.a
+  TARGET_PDB = Example-7.3.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.3.4
+
+
+#############################################
+# Order-only phony target for Example-7.3.4
+
+build cmake_object_order_depends_target_Example-7.3.4: phony || CMakeFiles/Example-7.3.4.dir
+
+build CMakeFiles/Example-7.3.4.dir/Chapter-7/7.3/Examples/Example-7.3.4.cpp.obj: CXX_COMPILER__Example-7.2e3.2e4_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.4.cpp || cmake_object_order_depends_target_Example-7.3.4
+  DEP_FILE = CMakeFiles\Example-7.3.4.dir\Chapter-7\7.3\Examples\Example-7.3.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.3.4.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.3.4.dir\Chapter-7\7.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.3.4
+
+
+#############################################
+# Link the executable Example-7.3.4.exe
+
+build Example-7.3.4.exe: CXX_EXECUTABLE_LINKER__Example-7.2e3.2e4_Debug CMakeFiles/Example-7.3.4.dir/Chapter-7/7.3/Examples/Example-7.3.4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.3.4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.3.4.exe
+  TARGET_IMPLIB = libExample-7.3.4.dll.a
+  TARGET_PDB = Example-7.3.4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.3.5
+
+
+#############################################
+# Order-only phony target for Example-7.3.5
+
+build cmake_object_order_depends_target_Example-7.3.5: phony || CMakeFiles/Example-7.3.5.dir
+
+build CMakeFiles/Example-7.3.5.dir/Chapter-7/7.3/Examples/Example-7.3.5.cpp.obj: CXX_COMPILER__Example-7.2e3.2e5_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Examples/Example-7.3.5.cpp || cmake_object_order_depends_target_Example-7.3.5
+  DEP_FILE = CMakeFiles\Example-7.3.5.dir\Chapter-7\7.3\Examples\Example-7.3.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.3.5.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.3.5.dir\Chapter-7\7.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.3.5
+
+
+#############################################
+# Link the executable Example-7.3.5.exe
+
+build Example-7.3.5.exe: CXX_EXECUTABLE_LINKER__Example-7.2e3.2e5_Debug CMakeFiles/Example-7.3.5.dir/Chapter-7/7.3/Examples/Example-7.3.5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.3.5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.3.5.exe
+  TARGET_IMPLIB = libExample-7.3.5.dll.a
+  TARGET_PDB = Example-7.3.5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-7.3.1
+
+
+#############################################
+# Order-only phony target for Exercises-7.3.1
+
+build cmake_object_order_depends_target_Exercises-7.3.1: phony || CMakeFiles/Exercises-7.3.1.dir
+
+build CMakeFiles/Exercises-7.3.1.dir/Chapter-7/7.3/Exercises/Exercises-7.3.1.cpp.obj: CXX_COMPILER__Exercises-7.2e3.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Exercises/Exercises-7.3.1.cpp || cmake_object_order_depends_target_Exercises-7.3.1
+  DEP_FILE = CMakeFiles\Exercises-7.3.1.dir\Chapter-7\7.3\Exercises\Exercises-7.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-7.3.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-7.3.1.dir\Chapter-7\7.3\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-7.3.1
+
+
+#############################################
+# Link the executable Exercises-7.3.1.exe
+
+build Exercises-7.3.1.exe: CXX_EXECUTABLE_LINKER__Exercises-7.2e3.2e1_Debug CMakeFiles/Exercises-7.3.1.dir/Chapter-7/7.3/Exercises/Exercises-7.3.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-7.3.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-7.3.1.exe
+  TARGET_IMPLIB = libExercises-7.3.1.dll.a
+  TARGET_PDB = Exercises-7.3.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-7.3.2
+
+
+#############################################
+# Order-only phony target for Exercises-7.3.2
+
+build cmake_object_order_depends_target_Exercises-7.3.2: phony || CMakeFiles/Exercises-7.3.2.dir
+
+build CMakeFiles/Exercises-7.3.2.dir/Chapter-7/7.3/Exercises/Exercises-7.3.2.cpp.obj: CXX_COMPILER__Exercises-7.2e3.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.3/Exercises/Exercises-7.3.2.cpp || cmake_object_order_depends_target_Exercises-7.3.2
+  DEP_FILE = CMakeFiles\Exercises-7.3.2.dir\Chapter-7\7.3\Exercises\Exercises-7.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-7.3.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-7.3.2.dir\Chapter-7\7.3\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-7.3.2
+
+
+#############################################
+# Link the executable Exercises-7.3.2.exe
+
+build Exercises-7.3.2.exe: CXX_EXECUTABLE_LINKER__Exercises-7.2e3.2e2_Debug CMakeFiles/Exercises-7.3.2.dir/Chapter-7/7.3/Exercises/Exercises-7.3.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-7.3.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-7.3.2.exe
+  TARGET_IMPLIB = libExercises-7.3.2.dll.a
+  TARGET_PDB = Exercises-7.3.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.4.1
+
+
+#############################################
+# Order-only phony target for Example-7.4.1
+
+build cmake_object_order_depends_target_Example-7.4.1: phony || CMakeFiles/Example-7.4.1.dir
+
+build CMakeFiles/Example-7.4.1.dir/Chapter-7/7.4/Examples/Example-7.4.1.cpp.obj: CXX_COMPILER__Example-7.2e4.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Examples/Example-7.4.1.cpp || cmake_object_order_depends_target_Example-7.4.1
+  DEP_FILE = CMakeFiles\Example-7.4.1.dir\Chapter-7\7.4\Examples\Example-7.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.4.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.4.1.dir\Chapter-7\7.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.4.1
+
+
+#############################################
+# Link the executable Example-7.4.1.exe
+
+build Example-7.4.1.exe: CXX_EXECUTABLE_LINKER__Example-7.2e4.2e1_Debug CMakeFiles/Example-7.4.1.dir/Chapter-7/7.4/Examples/Example-7.4.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.4.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.4.1.exe
+  TARGET_IMPLIB = libExample-7.4.1.dll.a
+  TARGET_PDB = Example-7.4.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.4.2
+
+
+#############################################
+# Order-only phony target for Example-7.4.2
+
+build cmake_object_order_depends_target_Example-7.4.2: phony || CMakeFiles/Example-7.4.2.dir
+
+build CMakeFiles/Example-7.4.2.dir/Chapter-7/7.4/Examples/Example-7.4.2.cpp.obj: CXX_COMPILER__Example-7.2e4.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Examples/Example-7.4.2.cpp || cmake_object_order_depends_target_Example-7.4.2
+  DEP_FILE = CMakeFiles\Example-7.4.2.dir\Chapter-7\7.4\Examples\Example-7.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.4.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.4.2.dir\Chapter-7\7.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.4.2
+
+
+#############################################
+# Link the executable Example-7.4.2.exe
+
+build Example-7.4.2.exe: CXX_EXECUTABLE_LINKER__Example-7.2e4.2e2_Debug CMakeFiles/Example-7.4.2.dir/Chapter-7/7.4/Examples/Example-7.4.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.4.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.4.2.exe
+  TARGET_IMPLIB = libExample-7.4.2.dll.a
+  TARGET_PDB = Example-7.4.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-7.4.3
+
+
+#############################################
+# Order-only phony target for Example-7.4.3
+
+build cmake_object_order_depends_target_Example-7.4.3: phony || CMakeFiles/Example-7.4.3.dir
+
+build CMakeFiles/Example-7.4.3.dir/Chapter-7/7.4/Examples/Example-7.4.3.cpp.obj: CXX_COMPILER__Example-7.2e4.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Examples/Example-7.4.3.cpp || cmake_object_order_depends_target_Example-7.4.3
+  DEP_FILE = CMakeFiles\Example-7.4.3.dir\Chapter-7\7.4\Examples\Example-7.4.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-7.4.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-7.4.3.dir\Chapter-7\7.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-7.4.3
+
+
+#############################################
+# Link the executable Example-7.4.3.exe
+
+build Example-7.4.3.exe: CXX_EXECUTABLE_LINKER__Example-7.2e4.2e3_Debug CMakeFiles/Example-7.4.3.dir/Chapter-7/7.4/Examples/Example-7.4.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-7.4.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-7.4.3.exe
+  TARGET_IMPLIB = libExample-7.4.3.dll.a
+  TARGET_PDB = Example-7.4.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-7.4.1
+
+
+#############################################
+# Order-only phony target for Exercises-7.4.1
+
+build cmake_object_order_depends_target_Exercises-7.4.1: phony || CMakeFiles/Exercises-7.4.1.dir
+
+build CMakeFiles/Exercises-7.4.1.dir/Chapter-7/7.4/Exercises/Exercises-7.4.1.cpp.obj: CXX_COMPILER__Exercises-7.2e4.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Exercises/Exercises-7.4.1.cpp || cmake_object_order_depends_target_Exercises-7.4.1
+  DEP_FILE = CMakeFiles\Exercises-7.4.1.dir\Chapter-7\7.4\Exercises\Exercises-7.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-7.4.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-7.4.1.dir\Chapter-7\7.4\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-7.4.1
+
+
+#############################################
+# Link the executable Exercises-7.4.1.exe
+
+build Exercises-7.4.1.exe: CXX_EXECUTABLE_LINKER__Exercises-7.2e4.2e1_Debug CMakeFiles/Exercises-7.4.1.dir/Chapter-7/7.4/Exercises/Exercises-7.4.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-7.4.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-7.4.1.exe
+  TARGET_IMPLIB = libExercises-7.4.1.dll.a
+  TARGET_PDB = Exercises-7.4.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-7.4.2
+
+
+#############################################
+# Order-only phony target for Exercises-7.4.2
+
+build cmake_object_order_depends_target_Exercises-7.4.2: phony || CMakeFiles/Exercises-7.4.2.dir
+
+build CMakeFiles/Exercises-7.4.2.dir/Chapter-7/7.4/Exercises/Exercises-7.4.2.cpp.obj: CXX_COMPILER__Exercises-7.2e4.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.4/Exercises/Exercises-7.4.2.cpp || cmake_object_order_depends_target_Exercises-7.4.2
+  DEP_FILE = CMakeFiles\Exercises-7.4.2.dir\Chapter-7\7.4\Exercises\Exercises-7.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-7.4.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-7.4.2.dir\Chapter-7\7.4\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-7.4.2
+
+
+#############################################
+# Link the executable Exercises-7.4.2.exe
+
+build Exercises-7.4.2.exe: CXX_EXECUTABLE_LINKER__Exercises-7.2e4.2e2_Debug CMakeFiles/Exercises-7.4.2.dir/Chapter-7/7.4/Exercises/Exercises-7.4.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-7.4.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-7.4.2.exe
+  TARGET_IMPLIB = libExercises-7.4.2.dll.a
+  TARGET_PDB = Exercises-7.4.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Examples-7.5.1
+
+
+#############################################
+# Order-only phony target for Examples-7.5.1
+
+build cmake_object_order_depends_target_Examples-7.5.1: phony || CMakeFiles/Examples-7.5.1.dir
+
+build CMakeFiles/Examples-7.5.1.dir/Chapter-7/7.5/Examples/Examples-7.5.1.cpp.obj: CXX_COMPILER__Examples-7.2e5.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-7/7.5/Examples/Examples-7.5.1.cpp || cmake_object_order_depends_target_Examples-7.5.1
+  DEP_FILE = CMakeFiles\Examples-7.5.1.dir\Chapter-7\7.5\Examples\Examples-7.5.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Examples-7.5.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Examples-7.5.1.dir\Chapter-7\7.5\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Examples-7.5.1
+
+
+#############################################
+# Link the executable Examples-7.5.1.exe
+
+build Examples-7.5.1.exe: CXX_EXECUTABLE_LINKER__Examples-7.2e5.2e1_Debug CMakeFiles/Examples-7.5.1.dir/Chapter-7/7.5/Examples/Examples-7.5.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Examples-7.5.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Examples-7.5.1.exe
+  TARGET_IMPLIB = libExamples-7.5.1.dll.a
+  TARGET_PDB = Examples-7.5.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.1.1
+
+
+#############################################
+# Order-only phony target for Example-10.1.1
+
+build cmake_object_order_depends_target_Example-10.1.1: phony || CMakeFiles/Example-10.1.1.dir
+
+build CMakeFiles/Example-10.1.1.dir/Chapter-10/10.1/Examples/Example-10.1.1.cpp.obj: CXX_COMPILER__Example-10.2e1.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.1/Examples/Example-10.1.1.cpp || cmake_object_order_depends_target_Example-10.1.1
+  DEP_FILE = CMakeFiles\Example-10.1.1.dir\Chapter-10\10.1\Examples\Example-10.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.1.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.1.1.dir\Chapter-10\10.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.1.1
+
+
+#############################################
+# Link the executable Example-10.1.1.exe
+
+build Example-10.1.1.exe: CXX_EXECUTABLE_LINKER__Example-10.2e1.2e1_Debug CMakeFiles/Example-10.1.1.dir/Chapter-10/10.1/Examples/Example-10.1.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.1.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.1.1.exe
+  TARGET_IMPLIB = libExample-10.1.1.dll.a
+  TARGET_PDB = Example-10.1.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.2.1
+
+
+#############################################
+# Order-only phony target for Example-10.2.1
+
+build cmake_object_order_depends_target_Example-10.2.1: phony || CMakeFiles/Example-10.2.1.dir
+
+build CMakeFiles/Example-10.2.1.dir/Chapter-10/10.2/Examples/Example-10.2.1.cpp.obj: CXX_COMPILER__Example-10.2e2.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.1.cpp || cmake_object_order_depends_target_Example-10.2.1
+  DEP_FILE = CMakeFiles\Example-10.2.1.dir\Chapter-10\10.2\Examples\Example-10.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.2.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.2.1.dir\Chapter-10\10.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.2.1
+
+
+#############################################
+# Link the executable Example-10.2.1.exe
+
+build Example-10.2.1.exe: CXX_EXECUTABLE_LINKER__Example-10.2e2.2e1_Debug CMakeFiles/Example-10.2.1.dir/Chapter-10/10.2/Examples/Example-10.2.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.2.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.2.1.exe
+  TARGET_IMPLIB = libExample-10.2.1.dll.a
+  TARGET_PDB = Example-10.2.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.2.2
+
+
+#############################################
+# Order-only phony target for Example-10.2.2
+
+build cmake_object_order_depends_target_Example-10.2.2: phony || CMakeFiles/Example-10.2.2.dir
+
+build CMakeFiles/Example-10.2.2.dir/Chapter-10/10.2/Examples/Example-10.2.2.cpp.obj: CXX_COMPILER__Example-10.2e2.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.2.cpp || cmake_object_order_depends_target_Example-10.2.2
+  DEP_FILE = CMakeFiles\Example-10.2.2.dir\Chapter-10\10.2\Examples\Example-10.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.2.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.2.2.dir\Chapter-10\10.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.2.2
+
+
+#############################################
+# Link the executable Example-10.2.2.exe
+
+build Example-10.2.2.exe: CXX_EXECUTABLE_LINKER__Example-10.2e2.2e2_Debug CMakeFiles/Example-10.2.2.dir/Chapter-10/10.2/Examples/Example-10.2.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.2.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.2.2.exe
+  TARGET_IMPLIB = libExample-10.2.2.dll.a
+  TARGET_PDB = Example-10.2.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.2.3
+
+
+#############################################
+# Order-only phony target for Example-10.2.3
+
+build cmake_object_order_depends_target_Example-10.2.3: phony || CMakeFiles/Example-10.2.3.dir
+
+build CMakeFiles/Example-10.2.3.dir/Chapter-10/10.2/Examples/Example-10.2.3.cpp.obj: CXX_COMPILER__Example-10.2e2.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.3.cpp || cmake_object_order_depends_target_Example-10.2.3
+  DEP_FILE = CMakeFiles\Example-10.2.3.dir\Chapter-10\10.2\Examples\Example-10.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.2.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.2.3.dir\Chapter-10\10.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.2.3
+
+
+#############################################
+# Link the executable Example-10.2.3.exe
+
+build Example-10.2.3.exe: CXX_EXECUTABLE_LINKER__Example-10.2e2.2e3_Debug CMakeFiles/Example-10.2.3.dir/Chapter-10/10.2/Examples/Example-10.2.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.2.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.2.3.exe
+  TARGET_IMPLIB = libExample-10.2.3.dll.a
+  TARGET_PDB = Example-10.2.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.2.4
+
+
+#############################################
+# Order-only phony target for Example-10.2.4
+
+build cmake_object_order_depends_target_Example-10.2.4: phony || CMakeFiles/Example-10.2.4.dir
+
+build CMakeFiles/Example-10.2.4.dir/Chapter-10/10.2/Examples/Example-10.2.4.cpp.obj: CXX_COMPILER__Example-10.2e2.2e4_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Examples/Example-10.2.4.cpp || cmake_object_order_depends_target_Example-10.2.4
+  DEP_FILE = CMakeFiles\Example-10.2.4.dir\Chapter-10\10.2\Examples\Example-10.2.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.2.4.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.2.4.dir\Chapter-10\10.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.2.4
+
+
+#############################################
+# Link the executable Example-10.2.4.exe
+
+build Example-10.2.4.exe: CXX_EXECUTABLE_LINKER__Example-10.2e2.2e4_Debug CMakeFiles/Example-10.2.4.dir/Chapter-10/10.2/Examples/Example-10.2.4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.2.4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.2.4.exe
+  TARGET_IMPLIB = libExample-10.2.4.dll.a
+  TARGET_PDB = Example-10.2.4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.3.1
+
+
+#############################################
+# Order-only phony target for Example-10.3.1
+
+build cmake_object_order_depends_target_Example-10.3.1: phony || CMakeFiles/Example-10.3.1.dir
+
+build CMakeFiles/Example-10.3.1.dir/Chapter-10/10.3/Examples/Example-10.3.1.cpp.obj: CXX_COMPILER__Example-10.2e3.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.3/Examples/Example-10.3.1.cpp || cmake_object_order_depends_target_Example-10.3.1
+  DEP_FILE = CMakeFiles\Example-10.3.1.dir\Chapter-10\10.3\Examples\Example-10.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.3.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.3.1.dir\Chapter-10\10.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.3.1
+
+
+#############################################
+# Link the executable Example-10.3.1.exe
+
+build Example-10.3.1.exe: CXX_EXECUTABLE_LINKER__Example-10.2e3.2e1_Debug CMakeFiles/Example-10.3.1.dir/Chapter-10/10.3/Examples/Example-10.3.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.3.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.3.1.exe
+  TARGET_IMPLIB = libExample-10.3.1.dll.a
+  TARGET_PDB = Example-10.3.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.3.2
+
+
+#############################################
+# Order-only phony target for Example-10.3.2
+
+build cmake_object_order_depends_target_Example-10.3.2: phony || CMakeFiles/Example-10.3.2.dir
+
+build CMakeFiles/Example-10.3.2.dir/Chapter-10/10.3/Examples/Example-10.3.2.cpp.obj: CXX_COMPILER__Example-10.2e3.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.3/Examples/Example-10.3.2.cpp || cmake_object_order_depends_target_Example-10.3.2
+  DEP_FILE = CMakeFiles\Example-10.3.2.dir\Chapter-10\10.3\Examples\Example-10.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.3.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.3.2.dir\Chapter-10\10.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.3.2
+
+
+#############################################
+# Link the executable Example-10.3.2.exe
+
+build Example-10.3.2.exe: CXX_EXECUTABLE_LINKER__Example-10.2e3.2e2_Debug CMakeFiles/Example-10.3.2.dir/Chapter-10/10.3/Examples/Example-10.3.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.3.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.3.2.exe
+  TARGET_IMPLIB = libExample-10.3.2.dll.a
+  TARGET_PDB = Example-10.3.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.4.1
+
+
+#############################################
+# Order-only phony target for Example-10.4.1
+
+build cmake_object_order_depends_target_Example-10.4.1: phony || CMakeFiles/Example-10.4.1.dir
+
+build CMakeFiles/Example-10.4.1.dir/Chapter-10/10.4/Examples/Example-10.4.1.cpp.obj: CXX_COMPILER__Example-10.2e4.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.4/Examples/Example-10.4.1.cpp || cmake_object_order_depends_target_Example-10.4.1
+  DEP_FILE = CMakeFiles\Example-10.4.1.dir\Chapter-10\10.4\Examples\Example-10.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.4.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.4.1.dir\Chapter-10\10.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.4.1
+
+
+#############################################
+# Link the executable Example-10.4.1.exe
+
+build Example-10.4.1.exe: CXX_EXECUTABLE_LINKER__Example-10.2e4.2e1_Debug CMakeFiles/Example-10.4.1.dir/Chapter-10/10.4/Examples/Example-10.4.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.4.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.4.1.exe
+  TARGET_IMPLIB = libExample-10.4.1.dll.a
+  TARGET_PDB = Example-10.4.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-10.4.2
+
+
+#############################################
+# Order-only phony target for Example-10.4.2
+
+build cmake_object_order_depends_target_Example-10.4.2: phony || CMakeFiles/Example-10.4.2.dir
+
+build CMakeFiles/Example-10.4.2.dir/Chapter-10/10.4/Examples/Example-10.4.2.cpp.obj: CXX_COMPILER__Example-10.2e4.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.4/Examples/Example-10.4.2.cpp || cmake_object_order_depends_target_Example-10.4.2
+  DEP_FILE = CMakeFiles\Example-10.4.2.dir\Chapter-10\10.4\Examples\Example-10.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-10.4.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-10.4.2.dir\Chapter-10\10.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-10.4.2
+
+
+#############################################
+# Link the executable Example-10.4.2.exe
+
+build Example-10.4.2.exe: CXX_EXECUTABLE_LINKER__Example-10.2e4.2e2_Debug CMakeFiles/Example-10.4.2.dir/Chapter-10/10.4/Examples/Example-10.4.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-10.4.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-10.4.2.exe
+  TARGET_IMPLIB = libExample-10.4.2.dll.a
+  TARGET_PDB = Example-10.4.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.1.1
+
+
+#############################################
+# Order-only phony target for Example-11.1.1
+
+build cmake_object_order_depends_target_Example-11.1.1: phony || CMakeFiles/Example-11.1.1.dir
+
+build CMakeFiles/Example-11.1.1.dir/Chapter-11/11.1/Examples/Example-11.1.1.cpp.obj: CXX_COMPILER__Example-11.2e1.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.1.cpp || cmake_object_order_depends_target_Example-11.1.1
+  DEP_FILE = CMakeFiles\Example-11.1.1.dir\Chapter-11\11.1\Examples\Example-11.1.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.1.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.1.1.dir\Chapter-11\11.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.1.1
+
+
+#############################################
+# Link the executable Example-11.1.1.exe
+
+build Example-11.1.1.exe: CXX_EXECUTABLE_LINKER__Example-11.2e1.2e1_Debug CMakeFiles/Example-11.1.1.dir/Chapter-11/11.1/Examples/Example-11.1.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.1.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.1.1.exe
+  TARGET_IMPLIB = libExample-11.1.1.dll.a
+  TARGET_PDB = Example-11.1.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.1.2
+
+
+#############################################
+# Order-only phony target for Example-11.1.2
+
+build cmake_object_order_depends_target_Example-11.1.2: phony || CMakeFiles/Example-11.1.2.dir
+
+build CMakeFiles/Example-11.1.2.dir/Chapter-11/11.1/Examples/Example-11.1.2.cpp.obj: CXX_COMPILER__Example-11.2e1.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.2.cpp || cmake_object_order_depends_target_Example-11.1.2
+  DEP_FILE = CMakeFiles\Example-11.1.2.dir\Chapter-11\11.1\Examples\Example-11.1.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.1.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.1.2.dir\Chapter-11\11.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.1.2
+
+
+#############################################
+# Link the executable Example-11.1.2.exe
+
+build Example-11.1.2.exe: CXX_EXECUTABLE_LINKER__Example-11.2e1.2e2_Debug CMakeFiles/Example-11.1.2.dir/Chapter-11/11.1/Examples/Example-11.1.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.1.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.1.2.exe
+  TARGET_IMPLIB = libExample-11.1.2.dll.a
+  TARGET_PDB = Example-11.1.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.1.3
+
+
+#############################################
+# Order-only phony target for Example-11.1.3
+
+build cmake_object_order_depends_target_Example-11.1.3: phony || CMakeFiles/Example-11.1.3.dir
+
+build CMakeFiles/Example-11.1.3.dir/Chapter-11/11.1/Examples/Example-11.1.3.cpp.obj: CXX_COMPILER__Example-11.2e1.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.3.cpp || cmake_object_order_depends_target_Example-11.1.3
+  DEP_FILE = CMakeFiles\Example-11.1.3.dir\Chapter-11\11.1\Examples\Example-11.1.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.1.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.1.3.dir\Chapter-11\11.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.1.3
+
+
+#############################################
+# Link the executable Example-11.1.3.exe
+
+build Example-11.1.3.exe: CXX_EXECUTABLE_LINKER__Example-11.2e1.2e3_Debug CMakeFiles/Example-11.1.3.dir/Chapter-11/11.1/Examples/Example-11.1.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.1.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.1.3.exe
+  TARGET_IMPLIB = libExample-11.1.3.dll.a
+  TARGET_PDB = Example-11.1.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.1.4
+
+
+#############################################
+# Order-only phony target for Example-11.1.4
+
+build cmake_object_order_depends_target_Example-11.1.4: phony || CMakeFiles/Example-11.1.4.dir
+
+build CMakeFiles/Example-11.1.4.dir/Chapter-11/11.1/Examples/Example-11.1.4.cpp.obj: CXX_COMPILER__Example-11.2e1.2e4_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.4.cpp || cmake_object_order_depends_target_Example-11.1.4
+  DEP_FILE = CMakeFiles\Example-11.1.4.dir\Chapter-11\11.1\Examples\Example-11.1.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.1.4.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.1.4.dir\Chapter-11\11.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.1.4
+
+
+#############################################
+# Link the executable Example-11.1.4.exe
+
+build Example-11.1.4.exe: CXX_EXECUTABLE_LINKER__Example-11.2e1.2e4_Debug CMakeFiles/Example-11.1.4.dir/Chapter-11/11.1/Examples/Example-11.1.4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.1.4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.1.4.exe
+  TARGET_IMPLIB = libExample-11.1.4.dll.a
+  TARGET_PDB = Example-11.1.4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.1.5
+
+
+#############################################
+# Order-only phony target for Example-11.1.5
+
+build cmake_object_order_depends_target_Example-11.1.5: phony || CMakeFiles/Example-11.1.5.dir
+
+build CMakeFiles/Example-11.1.5.dir/Chapter-11/11.1/Examples/Example-11.1.5.cpp.obj: CXX_COMPILER__Example-11.2e1.2e5_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.5.cpp || cmake_object_order_depends_target_Example-11.1.5
+  DEP_FILE = CMakeFiles\Example-11.1.5.dir\Chapter-11\11.1\Examples\Example-11.1.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.1.5.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.1.5.dir\Chapter-11\11.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.1.5
+
+
+#############################################
+# Link the executable Example-11.1.5.exe
+
+build Example-11.1.5.exe: CXX_EXECUTABLE_LINKER__Example-11.2e1.2e5_Debug CMakeFiles/Example-11.1.5.dir/Chapter-11/11.1/Examples/Example-11.1.5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.1.5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.1.5.exe
+  TARGET_IMPLIB = libExample-11.1.5.dll.a
+  TARGET_PDB = Example-11.1.5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.1.6
+
+
+#############################################
+# Order-only phony target for Example-11.1.6
+
+build cmake_object_order_depends_target_Example-11.1.6: phony || CMakeFiles/Example-11.1.6.dir
+
+build CMakeFiles/Example-11.1.6.dir/Chapter-11/11.1/Examples/Example-11.1.6.cpp.obj: CXX_COMPILER__Example-11.2e1.2e6_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Examples/Example-11.1.6.cpp || cmake_object_order_depends_target_Example-11.1.6
+  DEP_FILE = CMakeFiles\Example-11.1.6.dir\Chapter-11\11.1\Examples\Example-11.1.6.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.1.6.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.1.6.dir\Chapter-11\11.1\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.1.6
+
+
+#############################################
+# Link the executable Example-11.1.6.exe
+
+build Example-11.1.6.exe: CXX_EXECUTABLE_LINKER__Example-11.2e1.2e6_Debug CMakeFiles/Example-11.1.6.dir/Chapter-11/11.1/Examples/Example-11.1.6.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.1.6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.1.6.exe
+  TARGET_IMPLIB = libExample-11.1.6.dll.a
+  TARGET_PDB = Example-11.1.6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.2.1
+
+
+#############################################
+# Order-only phony target for Example-11.2.1
+
+build cmake_object_order_depends_target_Example-11.2.1: phony || CMakeFiles/Example-11.2.1.dir
+
+build CMakeFiles/Example-11.2.1.dir/Chapter-11/11.2/Examples/Example-11.2.1.cpp.obj: CXX_COMPILER__Example-11.2e2.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Examples/Example-11.2.1.cpp || cmake_object_order_depends_target_Example-11.2.1
+  DEP_FILE = CMakeFiles\Example-11.2.1.dir\Chapter-11\11.2\Examples\Example-11.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.2.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.2.1.dir\Chapter-11\11.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.2.1
+
+
+#############################################
+# Link the executable Example-11.2.1.exe
+
+build Example-11.2.1.exe: CXX_EXECUTABLE_LINKER__Example-11.2e2.2e1_Debug CMakeFiles/Example-11.2.1.dir/Chapter-11/11.2/Examples/Example-11.2.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.2.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.2.1.exe
+  TARGET_IMPLIB = libExample-11.2.1.dll.a
+  TARGET_PDB = Example-11.2.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.2.2
+
+
+#############################################
+# Order-only phony target for Example-11.2.2
+
+build cmake_object_order_depends_target_Example-11.2.2: phony || CMakeFiles/Example-11.2.2.dir
+
+build CMakeFiles/Example-11.2.2.dir/Chapter-11/11.2/Examples/Example-11.2.2.cpp.obj: CXX_COMPILER__Example-11.2e2.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Examples/Example-11.2.2.cpp || cmake_object_order_depends_target_Example-11.2.2
+  DEP_FILE = CMakeFiles\Example-11.2.2.dir\Chapter-11\11.2\Examples\Example-11.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.2.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.2.2.dir\Chapter-11\11.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.2.2
+
+
+#############################################
+# Link the executable Example-11.2.2.exe
+
+build Example-11.2.2.exe: CXX_EXECUTABLE_LINKER__Example-11.2e2.2e2_Debug CMakeFiles/Example-11.2.2.dir/Chapter-11/11.2/Examples/Example-11.2.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.2.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.2.2.exe
+  TARGET_IMPLIB = libExample-11.2.2.dll.a
+  TARGET_PDB = Example-11.2.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.2.3
+
+
+#############################################
+# Order-only phony target for Example-11.2.3
+
+build cmake_object_order_depends_target_Example-11.2.3: phony || CMakeFiles/Example-11.2.3.dir
+
+build CMakeFiles/Example-11.2.3.dir/Chapter-11/11.2/Examples/Example-11.2.3.cpp.obj: CXX_COMPILER__Example-11.2e2.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Examples/Example-11.2.3.cpp || cmake_object_order_depends_target_Example-11.2.3
+  DEP_FILE = CMakeFiles\Example-11.2.3.dir\Chapter-11\11.2\Examples\Example-11.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.2.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.2.3.dir\Chapter-11\11.2\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.2.3
+
+
+#############################################
+# Link the executable Example-11.2.3.exe
+
+build Example-11.2.3.exe: CXX_EXECUTABLE_LINKER__Example-11.2e2.2e3_Debug CMakeFiles/Example-11.2.3.dir/Chapter-11/11.2/Examples/Example-11.2.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.2.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.2.3.exe
+  TARGET_IMPLIB = libExample-11.2.3.dll.a
+  TARGET_PDB = Example-11.2.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.3.1
+
+
+#############################################
+# Order-only phony target for Example-11.3.1
+
+build cmake_object_order_depends_target_Example-11.3.1: phony || CMakeFiles/Example-11.3.1.dir
+
+build CMakeFiles/Example-11.3.1.dir/Chapter-11/11.3/Examples/Example-11.3.1.cpp.obj: CXX_COMPILER__Example-11.2e3.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.1.cpp || cmake_object_order_depends_target_Example-11.3.1
+  DEP_FILE = CMakeFiles\Example-11.3.1.dir\Chapter-11\11.3\Examples\Example-11.3.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.3.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.3.1.dir\Chapter-11\11.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.3.1
+
+
+#############################################
+# Link the executable Example-11.3.1.exe
+
+build Example-11.3.1.exe: CXX_EXECUTABLE_LINKER__Example-11.2e3.2e1_Debug CMakeFiles/Example-11.3.1.dir/Chapter-11/11.3/Examples/Example-11.3.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.3.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.3.1.exe
+  TARGET_IMPLIB = libExample-11.3.1.dll.a
+  TARGET_PDB = Example-11.3.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.3.2
+
+
+#############################################
+# Order-only phony target for Example-11.3.2
+
+build cmake_object_order_depends_target_Example-11.3.2: phony || CMakeFiles/Example-11.3.2.dir
+
+build CMakeFiles/Example-11.3.2.dir/Chapter-11/11.3/Examples/Example-11.3.2.cpp.obj: CXX_COMPILER__Example-11.2e3.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.2.cpp || cmake_object_order_depends_target_Example-11.3.2
+  DEP_FILE = CMakeFiles\Example-11.3.2.dir\Chapter-11\11.3\Examples\Example-11.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.3.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.3.2.dir\Chapter-11\11.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.3.2
+
+
+#############################################
+# Link the executable Example-11.3.2.exe
+
+build Example-11.3.2.exe: CXX_EXECUTABLE_LINKER__Example-11.2e3.2e2_Debug CMakeFiles/Example-11.3.2.dir/Chapter-11/11.3/Examples/Example-11.3.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.3.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.3.2.exe
+  TARGET_IMPLIB = libExample-11.3.2.dll.a
+  TARGET_PDB = Example-11.3.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.3.3
+
+
+#############################################
+# Order-only phony target for Example-11.3.3
+
+build cmake_object_order_depends_target_Example-11.3.3: phony || CMakeFiles/Example-11.3.3.dir
+
+build CMakeFiles/Example-11.3.3.dir/Chapter-11/11.3/Examples/Example-11.3.3.cpp.obj: CXX_COMPILER__Example-11.2e3.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.3.cpp || cmake_object_order_depends_target_Example-11.3.3
+  DEP_FILE = CMakeFiles\Example-11.3.3.dir\Chapter-11\11.3\Examples\Example-11.3.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.3.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.3.3.dir\Chapter-11\11.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.3.3
+
+
+#############################################
+# Link the executable Example-11.3.3.exe
+
+build Example-11.3.3.exe: CXX_EXECUTABLE_LINKER__Example-11.2e3.2e3_Debug CMakeFiles/Example-11.3.3.dir/Chapter-11/11.3/Examples/Example-11.3.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.3.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.3.3.exe
+  TARGET_IMPLIB = libExample-11.3.3.dll.a
+  TARGET_PDB = Example-11.3.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.3.4
+
+
+#############################################
+# Order-only phony target for Example-11.3.4
+
+build cmake_object_order_depends_target_Example-11.3.4: phony || CMakeFiles/Example-11.3.4.dir
+
+build CMakeFiles/Example-11.3.4.dir/Chapter-11/11.3/Examples/Example-11.3.4.cpp.obj: CXX_COMPILER__Example-11.2e3.2e4_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.4.cpp || cmake_object_order_depends_target_Example-11.3.4
+  DEP_FILE = CMakeFiles\Example-11.3.4.dir\Chapter-11\11.3\Examples\Example-11.3.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.3.4.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.3.4.dir\Chapter-11\11.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.3.4
+
+
+#############################################
+# Link the executable Example-11.3.4.exe
+
+build Example-11.3.4.exe: CXX_EXECUTABLE_LINKER__Example-11.2e3.2e4_Debug CMakeFiles/Example-11.3.4.dir/Chapter-11/11.3/Examples/Example-11.3.4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.3.4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.3.4.exe
+  TARGET_IMPLIB = libExample-11.3.4.dll.a
+  TARGET_PDB = Example-11.3.4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.3.5
+
+
+#############################################
+# Order-only phony target for Example-11.3.5
+
+build cmake_object_order_depends_target_Example-11.3.5: phony || CMakeFiles/Example-11.3.5.dir
+
+build CMakeFiles/Example-11.3.5.dir/Chapter-11/11.3/Examples/Example-11.3.5.cpp.obj: CXX_COMPILER__Example-11.2e3.2e5_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Examples/Example-11.3.5.cpp || cmake_object_order_depends_target_Example-11.3.5
+  DEP_FILE = CMakeFiles\Example-11.3.5.dir\Chapter-11\11.3\Examples\Example-11.3.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.3.5.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.3.5.dir\Chapter-11\11.3\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.3.5
+
+
+#############################################
+# Link the executable Example-11.3.5.exe
+
+build Example-11.3.5.exe: CXX_EXECUTABLE_LINKER__Example-11.2e3.2e5_Debug CMakeFiles/Example-11.3.5.dir/Chapter-11/11.3/Examples/Example-11.3.5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.3.5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.3.5.exe
+  TARGET_IMPLIB = libExample-11.3.5.dll.a
+  TARGET_PDB = Example-11.3.5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.3.2
+
+
+#############################################
+# Order-only phony target for Exercises-11.3.2
+
+build cmake_object_order_depends_target_Exercises-11.3.2: phony || CMakeFiles/Exercises-11.3.2.dir
+
+build CMakeFiles/Exercises-11.3.2.dir/Chapter-11/11.3/Exercises/Exercises-11.3.2.cpp.obj: CXX_COMPILER__Exercises-11.2e3.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Exercises/Exercises-11.3.2.cpp || cmake_object_order_depends_target_Exercises-11.3.2
+  DEP_FILE = CMakeFiles\Exercises-11.3.2.dir\Chapter-11\11.3\Exercises\Exercises-11.3.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.3.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.3.2.dir\Chapter-11\11.3\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.3.2
+
+
+#############################################
+# Link the executable Exercises-11.3.2.exe
+
+build Exercises-11.3.2.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e3.2e2_Debug CMakeFiles/Exercises-11.3.2.dir/Chapter-11/11.3/Exercises/Exercises-11.3.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.3.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.3.2.exe
+  TARGET_IMPLIB = libExercises-11.3.2.dll.a
+  TARGET_PDB = Exercises-11.3.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.3.3
+
+
+#############################################
+# Order-only phony target for Exercises-11.3.3
+
+build cmake_object_order_depends_target_Exercises-11.3.3: phony || CMakeFiles/Exercises-11.3.3.dir
+
+build CMakeFiles/Exercises-11.3.3.dir/Chapter-11/11.3/Exercises/Exercises-11.3.3.cpp.obj: CXX_COMPILER__Exercises-11.2e3.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.3/Exercises/Exercises-11.3.3.cpp || cmake_object_order_depends_target_Exercises-11.3.3
+  DEP_FILE = CMakeFiles\Exercises-11.3.3.dir\Chapter-11\11.3\Exercises\Exercises-11.3.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.3.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.3.3.dir\Chapter-11\11.3\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.3.3
+
+
+#############################################
+# Link the executable Exercises-11.3.3.exe
+
+build Exercises-11.3.3.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e3.2e3_Debug CMakeFiles/Exercises-11.3.3.dir/Chapter-11/11.3/Exercises/Exercises-11.3.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.3.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.3.3.exe
+  TARGET_IMPLIB = libExercises-11.3.3.dll.a
+  TARGET_PDB = Exercises-11.3.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.4.1
+
+
+#############################################
+# Order-only phony target for Example-11.4.1
+
+build cmake_object_order_depends_target_Example-11.4.1: phony || CMakeFiles/Example-11.4.1.dir
+
+build CMakeFiles/Example-11.4.1.dir/Chapter-11/11.4/Examples/Example-11.4.1.cpp.obj: CXX_COMPILER__Example-11.2e4.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.1.cpp || cmake_object_order_depends_target_Example-11.4.1
+  DEP_FILE = CMakeFiles\Example-11.4.1.dir\Chapter-11\11.4\Examples\Example-11.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.4.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.4.1.dir\Chapter-11\11.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.4.1
+
+
+#############################################
+# Link the executable Example-11.4.1.exe
+
+build Example-11.4.1.exe: CXX_EXECUTABLE_LINKER__Example-11.2e4.2e1_Debug CMakeFiles/Example-11.4.1.dir/Chapter-11/11.4/Examples/Example-11.4.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.4.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.4.1.exe
+  TARGET_IMPLIB = libExample-11.4.1.dll.a
+  TARGET_PDB = Example-11.4.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.4.2
+
+
+#############################################
+# Order-only phony target for Example-11.4.2
+
+build cmake_object_order_depends_target_Example-11.4.2: phony || CMakeFiles/Example-11.4.2.dir
+
+build CMakeFiles/Example-11.4.2.dir/Chapter-11/11.4/Examples/Example-11.4.2.cpp.obj: CXX_COMPILER__Example-11.2e4.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.2.cpp || cmake_object_order_depends_target_Example-11.4.2
+  DEP_FILE = CMakeFiles\Example-11.4.2.dir\Chapter-11\11.4\Examples\Example-11.4.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.4.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.4.2.dir\Chapter-11\11.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.4.2
+
+
+#############################################
+# Link the executable Example-11.4.2.exe
+
+build Example-11.4.2.exe: CXX_EXECUTABLE_LINKER__Example-11.2e4.2e2_Debug CMakeFiles/Example-11.4.2.dir/Chapter-11/11.4/Examples/Example-11.4.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.4.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.4.2.exe
+  TARGET_IMPLIB = libExample-11.4.2.dll.a
+  TARGET_PDB = Example-11.4.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.4.3
+
+
+#############################################
+# Order-only phony target for Example-11.4.3
+
+build cmake_object_order_depends_target_Example-11.4.3: phony || CMakeFiles/Example-11.4.3.dir
+
+build CMakeFiles/Example-11.4.3.dir/Chapter-11/11.4/Examples/Example-11.4.3.cpp.obj: CXX_COMPILER__Example-11.2e4.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.3.cpp || cmake_object_order_depends_target_Example-11.4.3
+  DEP_FILE = CMakeFiles\Example-11.4.3.dir\Chapter-11\11.4\Examples\Example-11.4.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.4.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.4.3.dir\Chapter-11\11.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.4.3
+
+
+#############################################
+# Link the executable Example-11.4.3.exe
+
+build Example-11.4.3.exe: CXX_EXECUTABLE_LINKER__Example-11.2e4.2e3_Debug CMakeFiles/Example-11.4.3.dir/Chapter-11/11.4/Examples/Example-11.4.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.4.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.4.3.exe
+  TARGET_IMPLIB = libExample-11.4.3.dll.a
+  TARGET_PDB = Example-11.4.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.4.4
+
+
+#############################################
+# Order-only phony target for Example-11.4.4
+
+build cmake_object_order_depends_target_Example-11.4.4: phony || CMakeFiles/Example-11.4.4.dir
+
+build CMakeFiles/Example-11.4.4.dir/Chapter-11/11.4/Examples/Example-11.4.4.cpp.obj: CXX_COMPILER__Example-11.2e4.2e4_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Examples/Example-11.4.4.cpp || cmake_object_order_depends_target_Example-11.4.4
+  DEP_FILE = CMakeFiles\Example-11.4.4.dir\Chapter-11\11.4\Examples\Example-11.4.4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.4.4.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.4.4.dir\Chapter-11\11.4\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.4.4
+
+
+#############################################
+# Link the executable Example-11.4.4.exe
+
+build Example-11.4.4.exe: CXX_EXECUTABLE_LINKER__Example-11.2e4.2e4_Debug CMakeFiles/Example-11.4.4.dir/Chapter-11/11.4/Examples/Example-11.4.4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.4.4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.4.4.exe
+  TARGET_IMPLIB = libExample-11.4.4.dll.a
+  TARGET_PDB = Example-11.4.4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.5.1
+
+
+#############################################
+# Order-only phony target for Example-11.5.1
+
+build cmake_object_order_depends_target_Example-11.5.1: phony || CMakeFiles/Example-11.5.1.dir
+
+build CMakeFiles/Example-11.5.1.dir/Chapter-11/11.5/Examples/Example-11.5.1.cpp.obj: CXX_COMPILER__Example-11.2e5.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Examples/Example-11.5.1.cpp || cmake_object_order_depends_target_Example-11.5.1
+  DEP_FILE = CMakeFiles\Example-11.5.1.dir\Chapter-11\11.5\Examples\Example-11.5.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.5.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.5.1.dir\Chapter-11\11.5\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.5.1
+
+
+#############################################
+# Link the executable Example-11.5.1.exe
+
+build Example-11.5.1.exe: CXX_EXECUTABLE_LINKER__Example-11.2e5.2e1_Debug CMakeFiles/Example-11.5.1.dir/Chapter-11/11.5/Examples/Example-11.5.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.5.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.5.1.exe
+  TARGET_IMPLIB = libExample-11.5.1.dll.a
+  TARGET_PDB = Example-11.5.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.5.2
+
+
+#############################################
+# Order-only phony target for Example-11.5.2
+
+build cmake_object_order_depends_target_Example-11.5.2: phony || CMakeFiles/Example-11.5.2.dir
+
+build CMakeFiles/Example-11.5.2.dir/Chapter-11/11.5/Examples/Example-11.5.2.cpp.obj: CXX_COMPILER__Example-11.2e5.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Examples/Example-11.5.2.cpp || cmake_object_order_depends_target_Example-11.5.2
+  DEP_FILE = CMakeFiles\Example-11.5.2.dir\Chapter-11\11.5\Examples\Example-11.5.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.5.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.5.2.dir\Chapter-11\11.5\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.5.2
+
+
+#############################################
+# Link the executable Example-11.5.2.exe
+
+build Example-11.5.2.exe: CXX_EXECUTABLE_LINKER__Example-11.2e5.2e2_Debug CMakeFiles/Example-11.5.2.dir/Chapter-11/11.5/Examples/Example-11.5.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.5.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.5.2.exe
+  TARGET_IMPLIB = libExample-11.5.2.dll.a
+  TARGET_PDB = Example-11.5.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Example-11.5.3
+
+
+#############################################
+# Order-only phony target for Example-11.5.3
+
+build cmake_object_order_depends_target_Example-11.5.3: phony || CMakeFiles/Example-11.5.3.dir
+
+build CMakeFiles/Example-11.5.3.dir/Chapter-11/11.5/Examples/Example-11.5.3.cpp.obj: CXX_COMPILER__Example-11.2e5.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Examples/Example-11.5.3.cpp || cmake_object_order_depends_target_Example-11.5.3
+  DEP_FILE = CMakeFiles\Example-11.5.3.dir\Chapter-11\11.5\Examples\Example-11.5.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Example-11.5.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Example-11.5.3.dir\Chapter-11\11.5\Examples
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Example-11.5.3
+
+
+#############################################
+# Link the executable Example-11.5.3.exe
+
+build Example-11.5.3.exe: CXX_EXECUTABLE_LINKER__Example-11.2e5.2e3_Debug CMakeFiles/Example-11.5.3.dir/Chapter-11/11.5/Examples/Example-11.5.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Example-11.5.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Example-11.5.3.exe
+  TARGET_IMPLIB = libExample-11.5.3.dll.a
+  TARGET_PDB = Example-11.5.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.5.2
+
+
+#############################################
+# Order-only phony target for Exercises-11.5.2
+
+build cmake_object_order_depends_target_Exercises-11.5.2: phony || CMakeFiles/Exercises-11.5.2.dir
+
+build CMakeFiles/Exercises-11.5.2.dir/Chapter-11/11.5/Exercises/Exercises-11.5.2.cpp.obj: CXX_COMPILER__Exercises-11.2e5.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.5/Exercises/Exercises-11.5.2.cpp || cmake_object_order_depends_target_Exercises-11.5.2
+  DEP_FILE = CMakeFiles\Exercises-11.5.2.dir\Chapter-11\11.5\Exercises\Exercises-11.5.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.5.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.5.2.dir\Chapter-11\11.5\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.5.2
+
+
+#############################################
+# Link the executable Exercises-11.5.2.exe
+
+build Exercises-11.5.2.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e5.2e2_Debug CMakeFiles/Exercises-11.5.2.dir/Chapter-11/11.5/Exercises/Exercises-11.5.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.5.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.5.2.exe
+  TARGET_IMPLIB = libExercises-11.5.2.dll.a
+  TARGET_PDB = Exercises-11.5.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.4.5
+
+
+#############################################
+# Order-only phony target for Exercises-11.4.5
+
+build cmake_object_order_depends_target_Exercises-11.4.5: phony || CMakeFiles/Exercises-11.4.5.dir
+
+build CMakeFiles/Exercises-11.4.5.dir/Chapter-11/11.4/Exercises/Exercises-11.4.5.cpp.obj: CXX_COMPILER__Exercises-11.2e4.2e5_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.4/Exercises/Exercises-11.4.5.cpp || cmake_object_order_depends_target_Exercises-11.4.5
+  DEP_FILE = CMakeFiles\Exercises-11.4.5.dir\Chapter-11\11.4\Exercises\Exercises-11.4.5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.4.5.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.4.5.dir\Chapter-11\11.4\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.4.5
+
+
+#############################################
+# Link the executable Exercises-11.4.5.exe
+
+build Exercises-11.4.5.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e4.2e5_Debug CMakeFiles/Exercises-11.4.5.dir/Chapter-11/11.4/Exercises/Exercises-11.4.5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.4.5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.4.5.exe
+  TARGET_IMPLIB = libExercises-11.4.5.dll.a
+  TARGET_PDB = Exercises-11.4.5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.2.2
+
+
+#############################################
+# Order-only phony target for Exercises-11.2.2
+
+build cmake_object_order_depends_target_Exercises-11.2.2: phony || CMakeFiles/Exercises-11.2.2.dir
+
+build CMakeFiles/Exercises-11.2.2.dir/Chapter-11/11.2/Exercises/Exercises-11.2.2.cpp.obj: CXX_COMPILER__Exercises-11.2e2.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Exercises/Exercises-11.2.2.cpp || cmake_object_order_depends_target_Exercises-11.2.2
+  DEP_FILE = CMakeFiles\Exercises-11.2.2.dir\Chapter-11\11.2\Exercises\Exercises-11.2.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.2.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.2.2.dir\Chapter-11\11.2\Exercises
+
+build CMakeFiles/Exercises-11.2.2.dir/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp.obj: CXX_COMPILER__Exercises-11.2e2.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp || cmake_object_order_depends_target_Exercises-11.2.2
+  DEP_FILE = CMakeFiles\Exercises-11.2.2.dir\Chapter-11\11.2\Exercises\Exercises-11.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.2.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.2.2.dir\Chapter-11\11.2\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.2.2
+
+
+#############################################
+# Link the executable Exercises-11.2.2.exe
+
+build Exercises-11.2.2.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e2.2e2_Debug CMakeFiles/Exercises-11.2.2.dir/Chapter-11/11.2/Exercises/Exercises-11.2.2.cpp.obj CMakeFiles/Exercises-11.2.2.dir/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.2.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.2.2.exe
+  TARGET_IMPLIB = libExercises-11.2.2.dll.a
+  TARGET_PDB = Exercises-11.2.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.2.3
+
+
+#############################################
+# Order-only phony target for Exercises-11.2.3
+
+build cmake_object_order_depends_target_Exercises-11.2.3: phony || CMakeFiles/Exercises-11.2.3.dir
+
+build CMakeFiles/Exercises-11.2.3.dir/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp.obj: CXX_COMPILER__Exercises-11.2e2.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp || cmake_object_order_depends_target_Exercises-11.2.3
+  DEP_FILE = CMakeFiles\Exercises-11.2.3.dir\Chapter-11\11.2\Exercises\Exercises-11.2.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.2.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.2.3.dir\Chapter-11\11.2\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.2.3
+
+
+#############################################
+# Link the executable Exercises-11.2.3.exe
+
+build Exercises-11.2.3.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e2.2e3_Debug CMakeFiles/Exercises-11.2.3.dir/Chapter-11/11.2/Exercises/Exercises-11.2.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.2.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.2.3.exe
+  TARGET_IMPLIB = libExercises-11.2.3.dll.a
+  TARGET_PDB = Exercises-11.2.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.1.2
+
+
+#############################################
+# Order-only phony target for Exercises-11.1.2
+
+build cmake_object_order_depends_target_Exercises-11.1.2: phony || CMakeFiles/Exercises-11.1.2.dir
+
+build CMakeFiles/Exercises-11.1.2.dir/Chapter-11/11.1/Exercises/Exercises-11.1.2.cpp.obj: CXX_COMPILER__Exercises-11.2e1.2e2_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Exercises/Exercises-11.1.2.cpp || cmake_object_order_depends_target_Exercises-11.1.2
+  DEP_FILE = CMakeFiles\Exercises-11.1.2.dir\Chapter-11\11.1\Exercises\Exercises-11.1.2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.1.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.1.2.dir\Chapter-11\11.1\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.1.2
+
+
+#############################################
+# Link the executable Exercises-11.1.2.exe
+
+build Exercises-11.1.2.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e1.2e2_Debug CMakeFiles/Exercises-11.1.2.dir/Chapter-11/11.1/Exercises/Exercises-11.1.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.1.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.1.2.exe
+  TARGET_IMPLIB = libExercises-11.1.2.dll.a
+  TARGET_PDB = Exercises-11.1.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-11.1.3
+
+
+#############################################
+# Order-only phony target for Exercises-11.1.3
+
+build cmake_object_order_depends_target_Exercises-11.1.3: phony || CMakeFiles/Exercises-11.1.3.dir
+
+build CMakeFiles/Exercises-11.1.3.dir/Chapter-11/11.1/Exercises/Exercises-11.1.3.cpp.obj: CXX_COMPILER__Exercises-11.2e1.2e3_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-11/11.1/Exercises/Exercises-11.1.3.cpp || cmake_object_order_depends_target_Exercises-11.1.3
+  DEP_FILE = CMakeFiles\Exercises-11.1.3.dir\Chapter-11\11.1\Exercises\Exercises-11.1.3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-11.1.3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-11.1.3.dir\Chapter-11\11.1\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-11.1.3
+
+
+#############################################
+# Link the executable Exercises-11.1.3.exe
+
+build Exercises-11.1.3.exe: CXX_EXECUTABLE_LINKER__Exercises-11.2e1.2e3_Debug CMakeFiles/Exercises-11.1.3.dir/Chapter-11/11.1/Exercises/Exercises-11.1.3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-11.1.3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-11.1.3.exe
+  TARGET_IMPLIB = libExercises-11.1.3.dll.a
+  TARGET_PDB = Exercises-11.1.3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-10.4.1
+
+
+#############################################
+# Order-only phony target for Exercises-10.4.1
+
+build cmake_object_order_depends_target_Exercises-10.4.1: phony || CMakeFiles/Exercises-10.4.1.dir
+
+build CMakeFiles/Exercises-10.4.1.dir/Chapter-10/10.4/Exercises/Exercises-10.4.1.cpp.obj: CXX_COMPILER__Exercises-10.2e4.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.4/Exercises/Exercises-10.4.1.cpp || cmake_object_order_depends_target_Exercises-10.4.1
+  DEP_FILE = CMakeFiles\Exercises-10.4.1.dir\Chapter-10\10.4\Exercises\Exercises-10.4.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-10.4.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-10.4.1.dir\Chapter-10\10.4\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-10.4.1
+
+
+#############################################
+# Link the executable Exercises-10.4.1.exe
+
+build Exercises-10.4.1.exe: CXX_EXECUTABLE_LINKER__Exercises-10.2e4.2e1_Debug CMakeFiles/Exercises-10.4.1.dir/Chapter-10/10.4/Exercises/Exercises-10.4.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-10.4.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-10.4.1.exe
+  TARGET_IMPLIB = libExercises-10.4.1.dll.a
+  TARGET_PDB = Exercises-10.4.1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercises-10.2.1
+
+
+#############################################
+# Order-only phony target for Exercises-10.2.1
+
+build cmake_object_order_depends_target_Exercises-10.2.1: phony || CMakeFiles/Exercises-10.2.1.dir
+
+build CMakeFiles/Exercises-10.2.1.dir/Chapter-10/10.2/Exercises/Exercises-10.2.1.cpp.obj: CXX_COMPILER__Exercises-10.2e2.2e1_unscanned_Debug E$:/CSE$ 112/Assignment/Chapter-10/10.2/Exercises/Exercises-10.2.1.cpp || cmake_object_order_depends_target_Exercises-10.2.1
+  DEP_FILE = CMakeFiles\Exercises-10.2.1.dir\Chapter-10\10.2\Exercises\Exercises-10.2.1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercises-10.2.1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercises-10.2.1.dir\Chapter-10\10.2\Exercises
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercises-10.2.1
+
+
+#############################################
+# Link the executable Exercises-10.2.1.exe
+
+build Exercises-10.2.1.exe: CXX_EXECUTABLE_LINKER__Exercises-10.2e2.2e1_Debug CMakeFiles/Exercises-10.2.1.dir/Chapter-10/10.2/Exercises/Exercises-10.2.1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercises-10.2.1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercises-10.2.1.exe
+  TARGET_IMPLIB = libExercises-10.2.1.dll.a
+  TARGET_PDB = Exercises-10.2.1.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2752,6 +5138,128 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Target aliases.
 
 build Assignment: phony Assignment.exe
+
+build Example-10.1.1: phony Example-10.1.1.exe
+
+build Example-10.2.1: phony Example-10.2.1.exe
+
+build Example-10.2.2: phony Example-10.2.2.exe
+
+build Example-10.2.3: phony Example-10.2.3.exe
+
+build Example-10.2.4: phony Example-10.2.4.exe
+
+build Example-10.3.1: phony Example-10.3.1.exe
+
+build Example-10.3.2: phony Example-10.3.2.exe
+
+build Example-10.4.1: phony Example-10.4.1.exe
+
+build Example-10.4.2: phony Example-10.4.2.exe
+
+build Example-11.1.1: phony Example-11.1.1.exe
+
+build Example-11.1.2: phony Example-11.1.2.exe
+
+build Example-11.1.3: phony Example-11.1.3.exe
+
+build Example-11.1.4: phony Example-11.1.4.exe
+
+build Example-11.1.5: phony Example-11.1.5.exe
+
+build Example-11.1.6: phony Example-11.1.6.exe
+
+build Example-11.2.1: phony Example-11.2.1.exe
+
+build Example-11.2.2: phony Example-11.2.2.exe
+
+build Example-11.2.3: phony Example-11.2.3.exe
+
+build Example-11.3.1: phony Example-11.3.1.exe
+
+build Example-11.3.2: phony Example-11.3.2.exe
+
+build Example-11.3.3: phony Example-11.3.3.exe
+
+build Example-11.3.4: phony Example-11.3.4.exe
+
+build Example-11.3.5: phony Example-11.3.5.exe
+
+build Example-11.4.1: phony Example-11.4.1.exe
+
+build Example-11.4.2: phony Example-11.4.2.exe
+
+build Example-11.4.3: phony Example-11.4.3.exe
+
+build Example-11.4.4: phony Example-11.4.4.exe
+
+build Example-11.5.1: phony Example-11.5.1.exe
+
+build Example-11.5.2: phony Example-11.5.2.exe
+
+build Example-11.5.3: phony Example-11.5.3.exe
+
+build Example-7.1.1: phony Example-7.1.1.exe
+
+build Example-7.1.2: phony Example-7.1.2.exe
+
+build Example-7.1.3: phony Example-7.1.3.exe
+
+build Example-7.1.4: phony Example-7.1.4.exe
+
+build Example-7.2.1: phony Example-7.2.1.exe
+
+build Example-7.2.2: phony Example-7.2.2.exe
+
+build Example-7.2.3: phony Example-7.2.3.exe
+
+build Example-7.3.1: phony Example-7.3.1.exe
+
+build Example-7.3.2: phony Example-7.3.2.exe
+
+build Example-7.3.3: phony Example-7.3.3.exe
+
+build Example-7.3.4: phony Example-7.3.4.exe
+
+build Example-7.3.5: phony Example-7.3.5.exe
+
+build Example-7.4.1: phony Example-7.4.1.exe
+
+build Example-7.4.2: phony Example-7.4.2.exe
+
+build Example-7.4.3: phony Example-7.4.3.exe
+
+build Examples-7.5.1: phony Examples-7.5.1.exe
+
+build Exercises-10.2.1: phony Exercises-10.2.1.exe
+
+build Exercises-10.4.1: phony Exercises-10.4.1.exe
+
+build Exercises-11.1.2: phony Exercises-11.1.2.exe
+
+build Exercises-11.1.3: phony Exercises-11.1.3.exe
+
+build Exercises-11.2.2: phony Exercises-11.2.2.exe
+
+build Exercises-11.2.3: phony Exercises-11.2.3.exe
+
+build Exercises-11.3.2: phony Exercises-11.3.2.exe
+
+build Exercises-11.3.3: phony Exercises-11.3.3.exe
+
+build Exercises-11.4.5: phony Exercises-11.4.5.exe
+
+build Exercises-11.5.2: phony Exercises-11.5.2.exe
+
+build Exercises-7.1.1: phony Exercises-7.1.1.exe
+
+build Exercises-7.3.1: phony Exercises-7.3.1.exe
+
+build Exercises-7.3.2: phony Exercises-7.3.2.exe
+
+build Exercises-7.4.1: phony Exercises-7.4.1.exe
+
+build Exercises-7.4.2: phony Exercises-7.4.2.exe
 
 build example4.2.1: phony example4.2.1.exe
 
@@ -2897,7 +5405,7 @@ build exercises6.7.1: phony exercises6.7.1.exe
 #############################################
 # Folder: E:/CSE 112/Assignment/cmake-build-debug
 
-build all: phony Assignment.exe exercises4.1.1.exe exercises4.1.2.exe exercises4.1.3.exe exercises4.2.1.exe exercises4.2.2.exe exercises4.3.1.exe exercises4.4.1.exe exercises4.4.2.exe exercises4.5.1.exe exercises4.6.1.exe exercises4.7.1.exe exercises4.8.1.exe example4.2.1.exe example4.3.1.exe example4.3.2.exe example4.4.1.exe example4.4.2.exe example4.5.1.exe example4.5.2.exe example4.5.3.exe example4.5.4.exe example4.5.5.exe example4.6.1.exe example4.6.2.exe example4.7.1.exe example4.7.2.exe example4.8.1.exe exercises5.1.1.exe exercises5.1.2.exe exercises5.2.1.exe exercises5.4.1.exe exercises5.4.2.exe exercises5.6.1.exe example5.1.1.exe example5.1.2.exe example5.1.3.exe example5.1.4.exe example5.2.1.exe example5.2.2.exe example5.4.1.exe example5.4.2.exe example5.4.3.exe example5.5.1.exe example5.5.2.exe example5.5.3.exe example5.5.4.exe example5.6.1.exe exercises6.2.1.exe exercises6.3.1.exe exercises6.4.1.exe exercises6.4.2.exe exercises6.5.1.exe exercises6.5.2.exe exercises6.5.3.exe exercises6.6.1.exe exercises6.7.1.exe example6.2.1.exe example6.2.2.exe example6.3.1.exe example6.4.1.exe example6.4.2.exe example6.5.1.exe example6.5.2.exe example6.5.3.exe example6.6.1.exe example6.7.1.exe example6.7.2.exe example6.7.3.exe
+build all: phony Assignment.exe exercises4.1.1.exe exercises4.1.2.exe exercises4.1.3.exe exercises4.2.1.exe exercises4.2.2.exe exercises4.3.1.exe exercises4.4.1.exe exercises4.4.2.exe exercises4.5.1.exe exercises4.6.1.exe exercises4.7.1.exe exercises4.8.1.exe example4.2.1.exe example4.3.1.exe example4.3.2.exe example4.4.1.exe example4.4.2.exe example4.5.1.exe example4.5.2.exe example4.5.3.exe example4.5.4.exe example4.5.5.exe example4.6.1.exe example4.6.2.exe example4.7.1.exe example4.7.2.exe example4.8.1.exe exercises5.1.1.exe exercises5.1.2.exe exercises5.2.1.exe exercises5.4.1.exe exercises5.4.2.exe exercises5.6.1.exe example5.1.1.exe example5.1.2.exe example5.1.3.exe example5.1.4.exe example5.2.1.exe example5.2.2.exe example5.4.1.exe example5.4.2.exe example5.4.3.exe example5.5.1.exe example5.5.2.exe example5.5.3.exe example5.5.4.exe example5.6.1.exe exercises6.2.1.exe exercises6.3.1.exe exercises6.4.1.exe exercises6.4.2.exe exercises6.5.1.exe exercises6.5.2.exe exercises6.5.3.exe exercises6.6.1.exe exercises6.7.1.exe example6.2.1.exe example6.2.2.exe example6.3.1.exe example6.4.1.exe example6.4.2.exe example6.5.1.exe example6.5.2.exe example6.5.3.exe example6.6.1.exe example6.7.1.exe example6.7.2.exe example6.7.3.exe Example-7.1.1.exe Example-7.1.2.exe Example-7.1.3.exe Example-7.1.4.exe Exercises-7.1.1.exe Example-7.2.1.exe Example-7.2.2.exe Example-7.2.3.exe Example-7.3.1.exe Example-7.3.2.exe Example-7.3.3.exe Example-7.3.4.exe Example-7.3.5.exe Exercises-7.3.1.exe Exercises-7.3.2.exe Example-7.4.1.exe Example-7.4.2.exe Example-7.4.3.exe Exercises-7.4.1.exe Exercises-7.4.2.exe Examples-7.5.1.exe Example-10.1.1.exe Example-10.2.1.exe Example-10.2.2.exe Example-10.2.3.exe Example-10.2.4.exe Example-10.3.1.exe Example-10.3.2.exe Example-10.4.1.exe Example-10.4.2.exe Example-11.1.1.exe Example-11.1.2.exe Example-11.1.3.exe Example-11.1.4.exe Example-11.1.5.exe Example-11.1.6.exe Example-11.2.1.exe Example-11.2.2.exe Example-11.2.3.exe Example-11.3.1.exe Example-11.3.2.exe Example-11.3.3.exe Example-11.3.4.exe Example-11.3.5.exe Exercises-11.3.2.exe Exercises-11.3.3.exe Example-11.4.1.exe Example-11.4.2.exe Example-11.4.3.exe Example-11.4.4.exe Example-11.5.1.exe Example-11.5.2.exe Example-11.5.3.exe Exercises-11.5.2.exe Exercises-11.4.5.exe Exercises-11.2.2.exe Exercises-11.2.3.exe Exercises-11.1.2.exe Exercises-11.1.3.exe Exercises-10.4.1.exe Exercises-10.2.1.exe
 
 # =============================================================================
 # Built-in targets
